@@ -1,0 +1,2477 @@
+/**
+ * Calculate the luminance for a color.
+ * See https://www.w3.org/TR/WCAG20-TECHS/G17.html#G17-tests
+ */
+/**
+ * Calculate the contrast ratio between two colors.
+ * See https://www.w3.org/TR/WCAG20-TECHS/G17.html#G17-tests
+ */
+/**
+ * Determine whether to use dark or light text on top of given color.
+ * Returns black for dark text and white for light text.
+ */
+.font-1c-enterprise {
+  color: #814CCC; }
+
+.bg-1c-enterprise {
+  background-color: #814CCC;
+  color: white; }
+
+.font-abap {
+  color: #E8274B; }
+
+.bg-abap {
+  background-color: #E8274B;
+  color: white; }
+
+.font-actionscript {
+  color: #882B0F; }
+
+.bg-actionscript {
+  background-color: #882B0F;
+  color: white; }
+
+.font-ada {
+  color: #02f88c; }
+
+.bg-ada {
+  background-color: #02f88c;
+  color: black; }
+
+.font-agda {
+  color: #315665; }
+
+.bg-agda {
+  background-color: #315665;
+  color: white; }
+
+.font-ags-script {
+  color: #B9D9FF; }
+
+.bg-ags-script {
+  background-color: #B9D9FF;
+  color: black; }
+
+.font-alloy {
+  color: #64C800; }
+
+.bg-alloy {
+  background-color: #64C800;
+  color: white; }
+
+.font-alpine-abuild {
+  color: black; }
+
+.bg-alpine-abuild {
+  background-color: black;
+  color: white; }
+
+.font-ampl {
+  color: #E6EFBB; }
+
+.bg-ampl {
+  background-color: #E6EFBB;
+  color: black; }
+
+.font-angelscript {
+  color: #C7D7DC; }
+
+.bg-angelscript {
+  background-color: #C7D7DC;
+  color: black; }
+
+.font-antlr {
+  color: #9DC3FF; }
+
+.bg-antlr {
+  background-color: #9DC3FF;
+  color: black; }
+
+.font-apex {
+  color: black; }
+
+.bg-apex {
+  background-color: black;
+  color: white; }
+
+.font-api-blueprint {
+  color: #2ACCA8; }
+
+.bg-api-blueprint {
+  background-color: #2ACCA8;
+  color: white; }
+
+.font-apl {
+  color: #5A8164; }
+
+.bg-apl {
+  background-color: #5A8164;
+  color: white; }
+
+.font-apollo-guidance-computer {
+  color: black; }
+
+.bg-apollo-guidance-computer {
+  background-color: black;
+  color: white; }
+
+.font-applescript {
+  color: #101F1F; }
+
+.bg-applescript {
+  background-color: #101F1F;
+  color: white; }
+
+.font-arc {
+  color: #aa2afe; }
+
+.bg-arc {
+  background-color: #aa2afe;
+  color: white; }
+
+.font-asp {
+  color: #6a40fd; }
+
+.bg-asp {
+  background-color: #6a40fd;
+  color: white; }
+
+.font-aspectj {
+  color: #a957b0; }
+
+.bg-aspectj {
+  background-color: #a957b0;
+  color: white; }
+
+.font-assembly {
+  color: #6E4C13; }
+
+.bg-assembly {
+  background-color: #6E4C13;
+  color: white; }
+
+.font-ats {
+  color: #1ac620; }
+
+.bg-ats {
+  background-color: #1ac620;
+  color: white; }
+
+.font-augeas {
+  color: black; }
+
+.bg-augeas {
+  background-color: black;
+  color: white; }
+
+.font-autohotkey {
+  color: #6594b9; }
+
+.bg-autohotkey {
+  background-color: #6594b9;
+  color: white; }
+
+.font-autoit {
+  color: #1C3552; }
+
+.bg-autoit {
+  background-color: #1C3552;
+  color: white; }
+
+.font-awk {
+  color: black; }
+
+.bg-awk {
+  background-color: black;
+  color: white; }
+
+.font-ballerina {
+  color: #FF5000; }
+
+.bg-ballerina {
+  background-color: #FF5000;
+  color: white; }
+
+.font-batchfile {
+  color: #C1F12E; }
+
+.bg-batchfile {
+  background-color: #C1F12E;
+  color: black; }
+
+.font-befunge {
+  color: black; }
+
+.bg-befunge {
+  background-color: black;
+  color: white; }
+
+.font-bison {
+  color: black; }
+
+.bg-bison {
+  background-color: black;
+  color: white; }
+
+.font-bitbake {
+  color: black; }
+
+.bg-bitbake {
+  background-color: black;
+  color: white; }
+
+.font-blitzbasic {
+  color: black; }
+
+.bg-blitzbasic {
+  background-color: black;
+  color: white; }
+
+.font-blitzmax {
+  color: #cd6400; }
+
+.bg-blitzmax {
+  background-color: #cd6400;
+  color: white; }
+
+.font-bluespec {
+  color: black; }
+
+.bg-bluespec {
+  background-color: black;
+  color: white; }
+
+.font-boo {
+  color: #d4bec1; }
+
+.bg-boo {
+  background-color: #d4bec1;
+  color: black; }
+
+.font-brainfuck {
+  color: #2F2530; }
+
+.bg-brainfuck {
+  background-color: #2F2530;
+  color: white; }
+
+.font-brightscript {
+  color: black; }
+
+.bg-brightscript {
+  background-color: black;
+  color: white; }
+
+.font-bronone {
+  color: #555555; }
+
+.bg-bronone {
+  background-color: #555555;
+  color: white; }
+
+.font-c2hs-haskell {
+  color: black; }
+
+.bg-c2hs-haskell {
+  background-color: black;
+  color: white; }
+
+.font-cartocss {
+  color: black; }
+
+.bg-cartocss {
+  background-color: black;
+  color: white; }
+
+.font-ceylon {
+  color: #dfa535; }
+
+.bg-ceylon {
+  background-color: #dfa535;
+  color: white; }
+
+.font-chapel {
+  color: #8dc63f; }
+
+.bg-chapel {
+  background-color: #8dc63f;
+  color: white; }
+
+.font-charity {
+  color: black; }
+
+.bg-charity {
+  background-color: black;
+  color: white; }
+
+.font-chuck {
+  color: black; }
+
+.bg-chuck {
+  background-color: black;
+  color: white; }
+
+.font-cirru {
+  color: #ccccff; }
+
+.bg-cirru {
+  background-color: #ccccff;
+  color: black; }
+
+.font-clarion {
+  color: #db901e; }
+
+.bg-clarion {
+  background-color: #db901e;
+  color: white; }
+
+.font-clean {
+  color: #3F85AF; }
+
+.bg-clean {
+  background-color: #3F85AF;
+  color: white; }
+
+.font-click {
+  color: #E4E6F3; }
+
+.bg-click {
+  background-color: #E4E6F3;
+  color: black; }
+
+.font-clips {
+  color: black; }
+
+.bg-clips {
+  background-color: black;
+  color: white; }
+
+.font-clojure {
+  color: #db5855; }
+
+.bg-clojure {
+  background-color: #db5855;
+  color: white; }
+
+.font-cmake {
+  color: black; }
+
+.bg-cmake {
+  background-color: black;
+  color: white; }
+
+.font-cobol {
+  color: black; }
+
+.bg-cobol {
+  background-color: black;
+  color: white; }
+
+.font-coffeescript {
+  color: #244776; }
+
+.bg-coffeescript {
+  background-color: #244776;
+  color: white; }
+
+.font-coldfusion {
+  color: #ed2cd6; }
+
+.bg-coldfusion {
+  background-color: #ed2cd6;
+  color: white; }
+
+.font-coldfusion-cfc {
+  color: black; }
+
+.bg-coldfusion-cfc {
+  background-color: black;
+  color: white; }
+
+.font-common-lisp {
+  color: #3fb68b; }
+
+.bg-common-lisp {
+  background-color: #3fb68b;
+  color: white; }
+
+.font-common-workflow-language {
+  color: #B5314C; }
+
+.bg-common-workflow-language {
+  background-color: #B5314C;
+  color: white; }
+
+.font-component-pascal {
+  color: #B0CE4E; }
+
+.bg-component-pascal {
+  background-color: #B0CE4E;
+  color: black; }
+
+.font-cool {
+  color: black; }
+
+.bg-cool {
+  background-color: black;
+  color: white; }
+
+.font-coq {
+  color: black; }
+
+.bg-coq {
+  background-color: black;
+  color: white; }
+
+.font-crystal {
+  color: #776791; }
+
+.bg-crystal {
+  background-color: #776791;
+  color: white; }
+
+.font-csound {
+  color: black; }
+
+.bg-csound {
+  background-color: black;
+  color: white; }
+
+.font-csound-document {
+  color: black; }
+
+.bg-csound-document {
+  background-color: black;
+  color: white; }
+
+.font-csound-score {
+  color: black; }
+
+.bg-csound-score {
+  background-color: black;
+  color: white; }
+
+.font-css {
+  color: #563d7c; }
+
+.bg-css {
+  background-color: #563d7c;
+  color: white; }
+
+.font-cuda {
+  color: #3A4E3A; }
+
+.bg-cuda {
+  background-color: #3A4E3A;
+  color: white; }
+
+.font-cweb {
+  color: black; }
+
+.bg-cweb {
+  background-color: black;
+  color: white; }
+
+.font-cycript {
+  color: black; }
+
+.bg-cycript {
+  background-color: black;
+  color: white; }
+
+.font-cython {
+  color: black; }
+
+.bg-cython {
+  background-color: black;
+  color: white; }
+
+.font-d {
+  color: #ba595e; }
+
+.bg-d {
+  background-color: #ba595e;
+  color: white; }
+
+.font-dart {
+  color: #00B4AB; }
+
+.bg-dart {
+  background-color: #00B4AB;
+  color: white; }
+
+.font-dataweave {
+  color: #003a52; }
+
+.bg-dataweave {
+  background-color: #003a52;
+  color: white; }
+
+.font-digital-command-language {
+  color: black; }
+
+.bg-digital-command-language {
+  background-color: black;
+  color: white; }
+
+.font-dm {
+  color: #447265; }
+
+.bg-dm {
+  background-color: #447265;
+  color: white; }
+
+.font-dockerfile {
+  color: #0db7ed; }
+
+.bg-dockerfile {
+  background-color: #0db7ed;
+  color: white; }
+
+.font-dogescript {
+  color: #cca760; }
+
+.bg-dogescript {
+  background-color: #cca760;
+  color: white; }
+
+.font-dtrace {
+  color: black; }
+
+.bg-dtrace {
+  background-color: black;
+  color: white; }
+
+.font-dylan {
+  color: #6c616e; }
+
+.bg-dylan {
+  background-color: #6c616e;
+  color: white; }
+
+.font-e {
+  color: #ccce35; }
+
+.bg-e {
+  background-color: #ccce35;
+  color: black; }
+
+.font-ec {
+  color: #913960; }
+
+.bg-ec {
+  background-color: #913960;
+  color: white; }
+
+.font-ecl {
+  color: #8a1267; }
+
+.bg-ecl {
+  background-color: #8a1267;
+  color: white; }
+
+.font-eclipse {
+  color: black; }
+
+.bg-eclipse {
+  background-color: black;
+  color: white; }
+
+.font-eiffel {
+  color: #946d57; }
+
+.bg-eiffel {
+  background-color: #946d57;
+  color: white; }
+
+.font-elixir {
+  color: #6e4a7e; }
+
+.bg-elixir {
+  background-color: #6e4a7e;
+  color: white; }
+
+.font-elm {
+  color: #60B5CC; }
+
+.bg-elm {
+  background-color: #60B5CC;
+  color: white; }
+
+.font-emacs-lisp {
+  color: #c065db; }
+
+.bg-emacs-lisp {
+  background-color: #c065db;
+  color: white; }
+
+.font-emberscript {
+  color: #FFF4F3; }
+
+.bg-emberscript {
+  background-color: #FFF4F3;
+  color: black; }
+
+.font-eq {
+  color: #a78649; }
+
+.bg-eq {
+  background-color: #a78649;
+  color: white; }
+
+.font-erlang {
+  color: #B83998; }
+
+.bg-erlang {
+  background-color: #B83998;
+  color: white; }
+
+.font-factor {
+  color: #636746; }
+
+.bg-factor {
+  background-color: #636746;
+  color: white; }
+
+.font-fancy {
+  color: #7b9db4; }
+
+.bg-fancy {
+  background-color: #7b9db4;
+  color: white; }
+
+.font-fantom {
+  color: #14253c; }
+
+.bg-fantom {
+  background-color: #14253c;
+  color: white; }
+
+.font-filebench-wml {
+  color: black; }
+
+.bg-filebench-wml {
+  background-color: black;
+  color: white; }
+
+.font-filterscript {
+  color: black; }
+
+.bg-filterscript {
+  background-color: black;
+  color: white; }
+
+.font-fish {
+  color: black; }
+
+.bg-fish {
+  background-color: black;
+  color: white; }
+
+.font-flux {
+  color: #88ccff; }
+
+.bg-flux {
+  background-color: #88ccff;
+  color: black; }
+
+.font-forth {
+  color: #341708; }
+
+.bg-forth {
+  background-color: #341708;
+  color: white; }
+
+.font-fortran {
+  color: #4d41b1; }
+
+.bg-fortran {
+  background-color: #4d41b1;
+  color: white; }
+
+.font-freemarker {
+  color: #0050b2; }
+
+.bg-freemarker {
+  background-color: #0050b2;
+  color: white; }
+
+.font-frege {
+  color: #00cafe; }
+
+.bg-frege {
+  background-color: #00cafe;
+  color: white; }
+
+.font-game-maker-language {
+  color: #8fb200; }
+
+.bg-game-maker-language {
+  background-color: #8fb200;
+  color: white; }
+
+.font-gams {
+  color: black; }
+
+.bg-gams {
+  background-color: black;
+  color: white; }
+
+.font-gap {
+  color: black; }
+
+.bg-gap {
+  background-color: black;
+  color: white; }
+
+.font-gcc-machine-description {
+  color: black; }
+
+.bg-gcc-machine-description {
+  background-color: black;
+  color: white; }
+
+.font-gdb {
+  color: black; }
+
+.bg-gdb {
+  background-color: black;
+  color: white; }
+
+.font-gdscript {
+  color: black; }
+
+.bg-gdscript {
+  background-color: black;
+  color: white; }
+
+.font-genie {
+  color: #fb855d; }
+
+.bg-genie {
+  background-color: #fb855d;
+  color: white; }
+
+.font-genshi {
+  color: black; }
+
+.bg-genshi {
+  background-color: black;
+  color: white; }
+
+.font-gentoo-ebuild {
+  color: black; }
+
+.bg-gentoo-ebuild {
+  background-color: black;
+  color: white; }
+
+.font-gentoo-eclass {
+  color: black; }
+
+.bg-gentoo-eclass {
+  background-color: black;
+  color: white; }
+
+.font-gherkin {
+  color: #5B2063; }
+
+.bg-gherkin {
+  background-color: #5B2063;
+  color: white; }
+
+.font-glsl {
+  color: black; }
+
+.bg-glsl {
+  background-color: black;
+  color: white; }
+
+.font-glyph {
+  color: #e4cc98; }
+
+.bg-glyph {
+  background-color: #e4cc98;
+  color: black; }
+
+.font-gnuplot {
+  color: #f0a9f0; }
+
+.bg-gnuplot {
+  background-color: #f0a9f0;
+  color: black; }
+
+.font-go {
+  color: #375eab; }
+
+.bg-go {
+  background-color: #375eab;
+  color: white; }
+
+.font-golo {
+  color: #88562A; }
+
+.bg-golo {
+  background-color: #88562A;
+  color: white; }
+
+.font-gosu {
+  color: #82937f; }
+
+.bg-gosu {
+  background-color: #82937f;
+  color: white; }
+
+.font-grace {
+  color: black; }
+
+.bg-grace {
+  background-color: black;
+  color: white; }
+
+.font-grammatical-framework {
+  color: #79aa7a; }
+
+.bg-grammatical-framework {
+  background-color: #79aa7a;
+  color: white; }
+
+.font-groovy {
+  color: #e69f56; }
+
+.bg-groovy {
+  background-color: #e69f56;
+  color: white; }
+
+.font-groovy-server-pages {
+  color: black; }
+
+.bg-groovy-server-pages {
+  background-color: black;
+  color: white; }
+
+.font-hack {
+  color: #878787; }
+
+.bg-hack {
+  background-color: #878787;
+  color: white; }
+
+.font-harbour {
+  color: #0e60e3; }
+
+.bg-harbour {
+  background-color: #0e60e3;
+  color: white; }
+
+.font-haskell {
+  color: #5e5086; }
+
+.bg-haskell {
+  background-color: #5e5086;
+  color: white; }
+
+.font-haxe {
+  color: #df7900; }
+
+.bg-haxe {
+  background-color: #df7900;
+  color: white; }
+
+.font-hcl {
+  color: black; }
+
+.bg-hcl {
+  background-color: black;
+  color: white; }
+
+.font-hiveql {
+  color: #dce200; }
+
+.bg-hiveql {
+  background-color: #dce200;
+  color: black; }
+
+.font-hlsl {
+  color: black; }
+
+.bg-hlsl {
+  background-color: black;
+  color: white; }
+
+.font-html {
+  color: #e34c26; }
+
+.bg-html {
+  background-color: #e34c26;
+  color: white; }
+
+.font-hy {
+  color: #7790B2; }
+
+.bg-hy {
+  background-color: #7790B2;
+  color: white; }
+
+.font-hyphy {
+  color: black; }
+
+.bg-hyphy {
+  background-color: black;
+  color: white; }
+
+.font-idl {
+  color: #a3522f; }
+
+.bg-idl {
+  background-color: #a3522f;
+  color: white; }
+
+.font-idris {
+  color: #b30000; }
+
+.bg-idris {
+  background-color: #b30000;
+  color: white; }
+
+.font-igor-pro {
+  color: black; }
+
+.bg-igor-pro {
+  background-color: black;
+  color: white; }
+
+.font-inform-7 {
+  color: black; }
+
+.bg-inform-7 {
+  background-color: black;
+  color: white; }
+
+.font-inno-setup {
+  color: black; }
+
+.bg-inno-setup {
+  background-color: black;
+  color: white; }
+
+.font-io {
+  color: #a9188d; }
+
+.bg-io {
+  background-color: #a9188d;
+  color: white; }
+
+.font-ioke {
+  color: #078193; }
+
+.bg-ioke {
+  background-color: #078193;
+  color: white; }
+
+.font-isabelle {
+  color: #FEFE00; }
+
+.bg-isabelle {
+  background-color: #FEFE00;
+  color: black; }
+
+.font-isabelle-root {
+  color: black; }
+
+.bg-isabelle-root {
+  background-color: black;
+  color: white; }
+
+.font-j {
+  color: #9EEDFF; }
+
+.bg-j {
+  background-color: #9EEDFF;
+  color: black; }
+
+.font-jasmin {
+  color: black; }
+
+.bg-jasmin {
+  background-color: black;
+  color: white; }
+
+.font-java {
+  color: #b07219; }
+
+.bg-java {
+  background-color: #b07219;
+  color: white; }
+
+.font-java-server-pages {
+  color: black; }
+
+.bg-java-server-pages {
+  background-color: black;
+  color: white; }
+
+.font-javascript {
+  color: #f1e05a; }
+
+.bg-javascript {
+  background-color: #f1e05a;
+  color: black; }
+
+.font-jflex {
+  color: black; }
+
+.bg-jflex {
+  background-color: black;
+  color: white; }
+
+.font-jison {
+  color: black; }
+
+.bg-jison {
+  background-color: black;
+  color: white; }
+
+.font-jison-lex {
+  color: black; }
+
+.bg-jison-lex {
+  background-color: black;
+  color: white; }
+
+.font-jolie {
+  color: #843179; }
+
+.bg-jolie {
+  background-color: #843179;
+  color: white; }
+
+.font-jsoniq {
+  color: #40d47e; }
+
+.bg-jsoniq {
+  background-color: #40d47e;
+  color: white; }
+
+.font-jsx {
+  color: black; }
+
+.bg-jsx {
+  background-color: black;
+  color: white; }
+
+.font-julia {
+  color: #a270ba; }
+
+.bg-julia {
+  background-color: #a270ba;
+  color: white; }
+
+.font-jupyter-notebook {
+  color: #DA5B0B; }
+
+.bg-jupyter-notebook {
+  background-color: #DA5B0B;
+  color: white; }
+
+.font-kotlin {
+  color: #F18E33; }
+
+.bg-kotlin {
+  background-color: #F18E33;
+  color: white; }
+
+.font-krl {
+  color: #28431f; }
+
+.bg-krl {
+  background-color: #28431f;
+  color: white; }
+
+.font-labview {
+  color: black; }
+
+.bg-labview {
+  background-color: black;
+  color: white; }
+
+.font-lasso {
+  color: #999999; }
+
+.bg-lasso {
+  background-color: #999999;
+  color: white; }
+
+.font-lean {
+  color: black; }
+
+.bg-lean {
+  background-color: black;
+  color: white; }
+
+.font-lex {
+  color: #DBCA00; }
+
+.bg-lex {
+  background-color: #DBCA00;
+  color: black; }
+
+.font-lfe {
+  color: #4C3023; }
+
+.bg-lfe {
+  background-color: #4C3023;
+  color: white; }
+
+.font-lilypond {
+  color: black; }
+
+.bg-lilypond {
+  background-color: black;
+  color: white; }
+
+.font-limbo {
+  color: black; }
+
+.bg-limbo {
+  background-color: black;
+  color: white; }
+
+.font-literate-agda {
+  color: black; }
+
+.bg-literate-agda {
+  background-color: black;
+  color: white; }
+
+.font-literate-coffeescript {
+  color: black; }
+
+.bg-literate-coffeescript {
+  background-color: black;
+  color: white; }
+
+.font-literate-haskell {
+  color: black; }
+
+.bg-literate-haskell {
+  background-color: black;
+  color: white; }
+
+.font-livescript {
+  color: #499886; }
+
+.bg-livescript {
+  background-color: #499886;
+  color: white; }
+
+.font-llvm {
+  color: #185619; }
+
+.bg-llvm {
+  background-color: #185619;
+  color: white; }
+
+.font-logos {
+  color: black; }
+
+.bg-logos {
+  background-color: black;
+  color: white; }
+
+.font-logtalk {
+  color: black; }
+
+.bg-logtalk {
+  background-color: black;
+  color: white; }
+
+.font-lolcode {
+  color: #cc9900; }
+
+.bg-lolcode {
+  background-color: #cc9900;
+  color: white; }
+
+.font-lookml {
+  color: #652B81; }
+
+.bg-lookml {
+  background-color: #652B81;
+  color: white; }
+
+.font-loomscript {
+  color: black; }
+
+.bg-loomscript {
+  background-color: black;
+  color: white; }
+
+.font-lsl {
+  color: #3d9970; }
+
+.bg-lsl {
+  background-color: #3d9970;
+  color: white; }
+
+.font-lua {
+  color: #000080; }
+
+.bg-lua {
+  background-color: #000080;
+  color: white; }
+
+.font-m {
+  color: black; }
+
+.bg-m {
+  background-color: black;
+  color: white; }
+
+.font-m4 {
+  color: black; }
+
+.bg-m4 {
+  background-color: black;
+  color: white; }
+
+.font-m4sugar {
+  color: black; }
+
+.bg-m4sugar {
+  background-color: black;
+  color: white; }
+
+.font-makefile {
+  color: #427819; }
+
+.bg-makefile {
+  background-color: #427819;
+  color: white; }
+
+.font-mako {
+  color: black; }
+
+.bg-mako {
+  background-color: black;
+  color: white; }
+
+.font-mask {
+  color: #f97732; }
+
+.bg-mask {
+  background-color: #f97732;
+  color: white; }
+
+.font-mathematica {
+  color: black; }
+
+.bg-mathematica {
+  background-color: black;
+  color: white; }
+
+.font-matlab {
+  color: #e16737; }
+
+.bg-matlab {
+  background-color: #e16737;
+  color: white; }
+
+.font-max {
+  color: #c4a79c; }
+
+.bg-max {
+  background-color: #c4a79c;
+  color: white; }
+
+.font-maxscript {
+  color: #00a6a6; }
+
+.bg-maxscript {
+  background-color: #00a6a6;
+  color: white; }
+
+.font-mercury {
+  color: #ff2b2b; }
+
+.bg-mercury {
+  background-color: #ff2b2b;
+  color: white; }
+
+.font-meson {
+  color: #007800; }
+
+.bg-meson {
+  background-color: #007800;
+  color: white; }
+
+.font-metal {
+  color: #8f14e9; }
+
+.bg-metal {
+  background-color: #8f14e9;
+  color: white; }
+
+.font-minid {
+  color: black; }
+
+.bg-minid {
+  background-color: black;
+  color: white; }
+
+.font-mirah {
+  color: #c7a938; }
+
+.bg-mirah {
+  background-color: #c7a938;
+  color: white; }
+
+.font-modelica {
+  color: black; }
+
+.bg-modelica {
+  background-color: black;
+  color: white; }
+
+.font-modula-2 {
+  color: black; }
+
+.bg-modula-2 {
+  background-color: black;
+  color: white; }
+
+.font-module-management-system {
+  color: black; }
+
+.bg-module-management-system {
+  background-color: black;
+  color: white; }
+
+.font-monkey {
+  color: black; }
+
+.bg-monkey {
+  background-color: black;
+  color: white; }
+
+.font-moocode {
+  color: black; }
+
+.bg-moocode {
+  background-color: black;
+  color: white; }
+
+.font-moonscript {
+  color: black; }
+
+.bg-moonscript {
+  background-color: black;
+  color: white; }
+
+.font-mql4 {
+  color: #62A8D6; }
+
+.bg-mql4 {
+  background-color: #62A8D6;
+  color: white; }
+
+.font-mql5 {
+  color: #4A76B8; }
+
+.bg-mql5 {
+  background-color: #4A76B8;
+  color: white; }
+
+.font-mtml {
+  color: #b7e1f4; }
+
+.bg-mtml {
+  background-color: #b7e1f4;
+  color: black; }
+
+.font-muf {
+  color: black; }
+
+.bg-muf {
+  background-color: black;
+  color: white; }
+
+.font-mupad {
+  color: black; }
+
+.bg-mupad {
+  background-color: black;
+  color: white; }
+
+.font-myghty {
+  color: black; }
+
+.bg-myghty {
+  background-color: black;
+  color: white; }
+
+.font-ncl {
+  color: #28431f; }
+
+.bg-ncl {
+  background-color: #28431f;
+  color: white; }
+
+.font-nearley {
+  color: #990000; }
+
+.bg-nearley {
+  background-color: #990000;
+  color: white; }
+
+.font-nemerle {
+  color: #3d3c6e; }
+
+.bg-nemerle {
+  background-color: #3d3c6e;
+  color: white; }
+
+.font-nesc {
+  color: #94B0C7; }
+
+.bg-nesc {
+  background-color: #94B0C7;
+  color: white; }
+
+.font-netlinx {
+  color: #0aa0ff; }
+
+.bg-netlinx {
+  background-color: #0aa0ff;
+  color: white; }
+
+.font-netlinxerb {
+  color: #747faa; }
+
+.bg-netlinxerb {
+  background-color: #747faa;
+  color: white; }
+
+.font-netlogo {
+  color: #ff6375; }
+
+.bg-netlogo {
+  background-color: #ff6375;
+  color: white; }
+
+.font-newlisp {
+  color: #87AED7; }
+
+.bg-newlisp {
+  background-color: #87AED7;
+  color: white; }
+
+.font-nextflow {
+  color: #3ac486; }
+
+.bg-nextflow {
+  background-color: #3ac486;
+  color: white; }
+
+.font-nim {
+  color: #37775b; }
+
+.bg-nim {
+  background-color: #37775b;
+  color: white; }
+
+.font-nit {
+  color: #009917; }
+
+.bg-nit {
+  background-color: #009917;
+  color: white; }
+
+.font-nix {
+  color: #7e7eff; }
+
+.bg-nix {
+  background-color: #7e7eff;
+  color: white; }
+
+.font-nsis {
+  color: black; }
+
+.bg-nsis {
+  background-color: black;
+  color: white; }
+
+.font-nu {
+  color: #c9df40; }
+
+.bg-nu {
+  background-color: #c9df40;
+  color: black; }
+
+.font-numpy {
+  color: black; }
+
+.bg-numpy {
+  background-color: black;
+  color: white; }
+
+.font-objective-c {
+  color: #438eff; }
+
+.bg-objective-c {
+  background-color: #438eff;
+  color: white; }
+
+.font-objective-j {
+  color: #ff0c5a; }
+
+.bg-objective-j {
+  background-color: #ff0c5a;
+  color: white; }
+
+.font-ocaml {
+  color: #3be133; }
+
+.bg-ocaml {
+  background-color: #3be133;
+  color: black; }
+
+.font-omgrofl {
+  color: #cabbff; }
+
+.bg-omgrofl {
+  background-color: #cabbff;
+  color: black; }
+
+.font-ooc {
+  color: #b0b77e; }
+
+.bg-ooc {
+  background-color: #b0b77e;
+  color: white; }
+
+.font-opa {
+  color: black; }
+
+.bg-opa {
+  background-color: black;
+  color: white; }
+
+.font-opal {
+  color: #f7ede0; }
+
+.bg-opal {
+  background-color: #f7ede0;
+  color: black; }
+
+.font-opencl {
+  color: black; }
+
+.bg-opencl {
+  background-color: black;
+  color: white; }
+
+.font-openedge-abl {
+  color: black; }
+
+.bg-openedge-abl {
+  background-color: black;
+  color: white; }
+
+.font-openrc-runscript {
+  color: black; }
+
+.bg-openrc-runscript {
+  background-color: black;
+  color: white; }
+
+.font-openscad {
+  color: black; }
+
+.bg-openscad {
+  background-color: black;
+  color: white; }
+
+.font-ox {
+  color: black; }
+
+.bg-ox {
+  background-color: black;
+  color: white; }
+
+.font-oxygene {
+  color: #cdd0e3; }
+
+.bg-oxygene {
+  background-color: #cdd0e3;
+  color: black; }
+
+.font-oz {
+  color: #fab738; }
+
+.bg-oz {
+  background-color: #fab738;
+  color: black; }
+
+.font-p4 {
+  color: #7055b5; }
+
+.bg-p4 {
+  background-color: #7055b5;
+  color: white; }
+
+.font-pan {
+  color: #cc0000; }
+
+.bg-pan {
+  background-color: #cc0000;
+  color: white; }
+
+.font-papyrus {
+  color: #6600cc; }
+
+.bg-papyrus {
+  background-color: #6600cc;
+  color: white; }
+
+.font-parrot {
+  color: #f3ca0a; }
+
+.bg-parrot {
+  background-color: #f3ca0a;
+  color: black; }
+
+.font-parrot-assembly {
+  color: black; }
+
+.bg-parrot-assembly {
+  background-color: black;
+  color: white; }
+
+.font-parrot-internal-representation {
+  color: black; }
+
+.bg-parrot-internal-representation {
+  background-color: black;
+  color: white; }
+
+.font-pascal {
+  color: #E3F171; }
+
+.bg-pascal {
+  background-color: #E3F171;
+  color: black; }
+
+.font-pawn {
+  color: #dbb284; }
+
+.bg-pawn {
+  background-color: #dbb284;
+  color: white; }
+
+.font-pep8 {
+  color: #C76F5B; }
+
+.bg-pep8 {
+  background-color: #C76F5B;
+  color: white; }
+
+.font-perl {
+  color: #0298c3; }
+
+.bg-perl {
+  background-color: #0298c3;
+  color: white; }
+
+.font-perl-6 {
+  color: #0000fb; }
+
+.bg-perl-6 {
+  background-color: #0000fb;
+  color: white; }
+
+.font-php {
+  color: #4F5D95; }
+
+.bg-php {
+  background-color: #4F5D95;
+  color: white; }
+
+.font-picolisp {
+  color: black; }
+
+.bg-picolisp {
+  background-color: black;
+  color: white; }
+
+.font-piglatin {
+  color: #fcd7de; }
+
+.bg-piglatin {
+  background-color: #fcd7de;
+  color: black; }
+
+.font-pike {
+  color: #005390; }
+
+.bg-pike {
+  background-color: #005390;
+  color: white; }
+
+.font-plpgsql {
+  color: black; }
+
+.bg-plpgsql {
+  background-color: black;
+  color: white; }
+
+.font-plsql {
+  color: #dad8d8; }
+
+.bg-plsql {
+  background-color: #dad8d8;
+  color: black; }
+
+.font-pogoscript {
+  color: #d80074; }
+
+.bg-pogoscript {
+  background-color: #d80074;
+  color: white; }
+
+.font-pony {
+  color: black; }
+
+.bg-pony {
+  background-color: black;
+  color: white; }
+
+.font-postscript {
+  color: #da291c; }
+
+.bg-postscript {
+  background-color: #da291c;
+  color: white; }
+
+.font-pov-ray-sdl {
+  color: black; }
+
+.bg-pov-ray-sdl {
+  background-color: black;
+  color: white; }
+
+.font-powerbuilder {
+  color: #8f0f8d; }
+
+.bg-powerbuilder {
+  background-color: #8f0f8d;
+  color: white; }
+
+.font-powershell {
+  color: #012456; }
+
+.bg-powershell {
+  background-color: #012456;
+  color: white; }
+
+.font-processing {
+  color: #0096D8; }
+
+.bg-processing {
+  background-color: #0096D8;
+  color: white; }
+
+.font-prolog {
+  color: #74283c; }
+
+.bg-prolog {
+  background-color: #74283c;
+  color: white; }
+
+.font-propeller-spin {
+  color: #7fa2a7; }
+
+.bg-propeller-spin {
+  background-color: #7fa2a7;
+  color: white; }
+
+.font-puppet {
+  color: #302B6D; }
+
+.bg-puppet {
+  background-color: #302B6D;
+  color: white; }
+
+.font-purebasic {
+  color: #5a6986; }
+
+.bg-purebasic {
+  background-color: #5a6986;
+  color: white; }
+
+.font-purescript {
+  color: #1D222D; }
+
+.bg-purescript {
+  background-color: #1D222D;
+  color: white; }
+
+.font-python {
+  color: #3572A5; }
+
+.bg-python {
+  background-color: #3572A5;
+  color: white; }
+
+.font-python-console {
+  color: black; }
+
+.bg-python-console {
+  background-color: black;
+  color: white; }
+
+.font-q {
+  color: #0040cd; }
+
+.bg-q {
+  background-color: #0040cd;
+  color: white; }
+
+.font-qmake {
+  color: black; }
+
+.bg-qmake {
+  background-color: black;
+  color: white; }
+
+.font-qml {
+  color: #44a51c; }
+
+.bg-qml {
+  background-color: #44a51c;
+  color: white; }
+
+.font-r {
+  color: #198CE7; }
+
+.bg-r {
+  background-color: #198CE7;
+  color: white; }
+
+.font-racket {
+  color: #22228f; }
+
+.bg-racket {
+  background-color: #22228f;
+  color: white; }
+
+.font-ragel {
+  color: #9d5200; }
+
+.bg-ragel {
+  background-color: #9d5200;
+  color: white; }
+
+.font-raml {
+  color: #77d9fb; }
+
+.bg-raml {
+  background-color: #77d9fb;
+  color: black; }
+
+.font-rascal {
+  color: #fffaa0; }
+
+.bg-rascal {
+  background-color: #fffaa0;
+  color: black; }
+
+.font-realbasic {
+  color: black; }
+
+.bg-realbasic {
+  background-color: black;
+  color: white; }
+
+.font-reason {
+  color: black; }
+
+.bg-reason {
+  background-color: black;
+  color: white; }
+
+.font-rebol {
+  color: #358a5b; }
+
+.bg-rebol {
+  background-color: #358a5b;
+  color: white; }
+
+.font-red {
+  color: #f50000; }
+
+.bg-red {
+  background-color: #f50000;
+  color: white; }
+
+.font-redcode {
+  color: black; }
+
+.bg-redcode {
+  background-color: black;
+  color: white; }
+
+.font-renpy {
+  color: #ff7f7f; }
+
+.bg-renpy {
+  background-color: #ff7f7f;
+  color: white; }
+
+.font-renderscript {
+  color: black; }
+
+.bg-renderscript {
+  background-color: black;
+  color: white; }
+
+.font-rexx {
+  color: black; }
+
+.bg-rexx {
+  background-color: black;
+  color: white; }
+
+.font-ring {
+  color: #0e60e3; }
+
+.bg-ring {
+  background-color: #0e60e3;
+  color: white; }
+
+.font-robotframework {
+  color: black; }
+
+.bg-robotframework {
+  background-color: black;
+  color: white; }
+
+.font-roff {
+  color: #ecdebe; }
+
+.bg-roff {
+  background-color: #ecdebe;
+  color: black; }
+
+.font-rouge {
+  color: #cc0088; }
+
+.bg-rouge {
+  background-color: #cc0088;
+  color: white; }
+
+.font-rpc {
+  color: black; }
+
+.bg-rpc {
+  background-color: black;
+  color: white; }
+
+.font-ruby {
+  color: #701516; }
+
+.bg-ruby {
+  background-color: #701516;
+  color: white; }
+
+.font-runoff {
+  color: #665a4e; }
+
+.bg-runoff {
+  background-color: #665a4e;
+  color: white; }
+
+.font-rust {
+  color: #dea584; }
+
+.bg-rust {
+  background-color: #dea584;
+  color: white; }
+
+.font-sage {
+  color: black; }
+
+.bg-sage {
+  background-color: black;
+  color: white; }
+
+.font-saltstack {
+  color: #646464; }
+
+.bg-saltstack {
+  background-color: #646464;
+  color: white; }
+
+.font-sas {
+  color: #B34936; }
+
+.bg-sas {
+  background-color: #B34936;
+  color: white; }
+
+.font-scala {
+  color: #c22d40; }
+
+.bg-scala {
+  background-color: #c22d40;
+  color: white; }
+
+.font-scheme {
+  color: #1e4aec; }
+
+.bg-scheme {
+  background-color: #1e4aec;
+  color: white; }
+
+.font-scilab {
+  color: black; }
+
+.bg-scilab {
+  background-color: black;
+  color: white; }
+
+.font-sed {
+  color: #64b970; }
+
+.bg-sed {
+  background-color: #64b970;
+  color: white; }
+
+.font-self {
+  color: #0579aa; }
+
+.bg-self {
+  background-color: #0579aa;
+  color: white; }
+
+.font-shaderlab {
+  color: black; }
+
+.bg-shaderlab {
+  background-color: black;
+  color: white; }
+
+.font-shell {
+  color: #89e051; }
+
+.bg-shell {
+  background-color: #89e051;
+  color: black; }
+
+.font-shellsession {
+  color: black; }
+
+.bg-shellsession {
+  background-color: black;
+  color: white; }
+
+.font-shen {
+  color: #120F14; }
+
+.bg-shen {
+  background-color: #120F14;
+  color: white; }
+
+.font-slash {
+  color: #007eff; }
+
+.bg-slash {
+  background-color: #007eff;
+  color: white; }
+
+.font-smali {
+  color: black; }
+
+.bg-smali {
+  background-color: black;
+  color: white; }
+
+.font-smalltalk {
+  color: #596706; }
+
+.bg-smalltalk {
+  background-color: #596706;
+  color: white; }
+
+.font-smarty {
+  color: black; }
+
+.bg-smarty {
+  background-color: black;
+  color: white; }
+
+.font-smt {
+  color: black; }
+
+.bg-smt {
+  background-color: black;
+  color: white; }
+
+.font-solidity {
+  color: #AA6746; }
+
+.bg-solidity {
+  background-color: #AA6746;
+  color: white; }
+
+.font-sourcepawn {
+  color: #5c7611; }
+
+.bg-sourcepawn {
+  background-color: #5c7611;
+  color: white; }
+
+.font-sqf {
+  color: #3F3F3F; }
+
+.bg-sqf {
+  background-color: #3F3F3F;
+  color: white; }
+
+.font-sqlpl {
+  color: black; }
+
+.bg-sqlpl {
+  background-color: black;
+  color: white; }
+
+.font-squirrel {
+  color: #800000; }
+
+.bg-squirrel {
+  background-color: #800000;
+  color: white; }
+
+.font-srecode-template {
+  color: #348a34; }
+
+.bg-srecode-template {
+  background-color: #348a34;
+  color: white; }
+
+.font-stan {
+  color: #b2011d; }
+
+.bg-stan {
+  background-color: #b2011d;
+  color: white; }
+
+.font-standard-ml {
+  color: #dc566d; }
+
+.bg-standard-ml {
+  background-color: #dc566d;
+  color: white; }
+
+.font-stata {
+  color: black; }
+
+.bg-stata {
+  background-color: black;
+  color: white; }
+
+.font-supercollider {
+  color: #46390b; }
+
+.bg-supercollider {
+  background-color: #46390b;
+  color: white; }
+
+.font-swift {
+  color: #ffac45; }
+
+.bg-swift {
+  background-color: #ffac45;
+  color: black; }
+
+.font-systemverilog {
+  color: #DAE1C2; }
+
+.bg-systemverilog {
+  background-color: #DAE1C2;
+  color: black; }
+
+.font-tcl {
+  color: #e4cc98; }
+
+.bg-tcl {
+  background-color: #e4cc98;
+  color: black; }
+
+.font-tcsh {
+  color: black; }
+
+.bg-tcsh {
+  background-color: black;
+  color: white; }
+
+.font-terra {
+  color: #00004c; }
+
+.bg-terra {
+  background-color: #00004c;
+  color: white; }
+
+.font-tex {
+  color: #3D6117; }
+
+.bg-tex {
+  background-color: #3D6117;
+  color: white; }
+
+.font-thrift {
+  color: black; }
+
+.bg-thrift {
+  background-color: black;
+  color: white; }
+
+.font-ti-program {
+  color: #A0AA87; }
+
+.bg-ti-program {
+  background-color: #A0AA87;
+  color: white; }
+
+.font-tla {
+  color: black; }
+
+.bg-tla {
+  background-color: black;
+  color: white; }
+
+.font-turing {
+  color: #cf142b; }
+
+.bg-turing {
+  background-color: #cf142b;
+  color: white; }
+
+.font-txl {
+  color: black; }
+
+.bg-txl {
+  background-color: black;
+  color: white; }
+
+.font-typescript {
+  color: #2b7489; }
+
+.bg-typescript {
+  background-color: #2b7489;
+  color: white; }
+
+.font-unified-parallel-c {
+  color: black; }
+
+.bg-unified-parallel-c {
+  background-color: black;
+  color: white; }
+
+.font-unix-assembly {
+  color: black; }
+
+.bg-unix-assembly {
+  background-color: black;
+  color: white; }
+
+.font-uno {
+  color: black; }
+
+.bg-uno {
+  background-color: black;
+  color: white; }
+
+.font-unrealscript {
+  color: #a54c4d; }
+
+.bg-unrealscript {
+  background-color: #a54c4d;
+  color: white; }
+
+.font-urweb {
+  color: black; }
+
+.bg-urweb {
+  background-color: black;
+  color: white; }
+
+.font-vala {
+  color: #fbe5cd; }
+
+.bg-vala {
+  background-color: #fbe5cd;
+  color: black; }
+
+.font-vcl {
+  color: #0298c3; }
+
+.bg-vcl {
+  background-color: #0298c3;
+  color: white; }
+
+.font-verilog {
+  color: #b2b7f8; }
+
+.bg-verilog {
+  background-color: #b2b7f8;
+  color: black; }
+
+.font-vhdl {
+  color: #adb2cb; }
+
+.bg-vhdl {
+  background-color: #adb2cb;
+  color: white; }
+
+.font-vim-script {
+  color: #199f4b; }
+
+.bg-vim-script {
+  background-color: #199f4b;
+  color: white; }
+
+.font-visual-basic {
+  color: #945db7; }
+
+.bg-visual-basic {
+  background-color: #945db7;
+  color: white; }
+
+.font-volt {
+  color: #1F1F1F; }
+
+.bg-volt {
+  background-color: #1F1F1F;
+  color: white; }
+
+.font-vue {
+  color: #2c3e50; }
+
+.bg-vue {
+  background-color: #2c3e50;
+  color: white; }
+
+.font-wdl {
+  color: #42f1f4; }
+
+.bg-wdl {
+  background-color: #42f1f4;
+  color: black; }
+
+.font-webassembly {
+  color: #04133b; }
+
+.bg-webassembly {
+  background-color: #04133b;
+  color: white; }
+
+.font-webidl {
+  color: black; }
+
+.bg-webidl {
+  background-color: black;
+  color: white; }
+
+.font-wisp {
+  color: #7582D1; }
+
+.bg-wisp {
+  background-color: #7582D1;
+  color: white; }
+
+.font-x10 {
+  color: #4B6BEF; }
+
+.bg-x10 {
+  background-color: #4B6BEF;
+  color: white; }
+
+.font-xbase {
+  color: #403a40; }
+
+.bg-xbase {
+  background-color: #403a40;
+  color: white; }
+
+.font-xc {
+  color: #99DA07; }
+
+.bg-xc {
+  background-color: #99DA07;
+  color: black; }
+
+.font-xojo {
+  color: black; }
+
+.bg-xojo {
+  background-color: black;
+  color: white; }
+
+.font-xproc {
+  color: black; }
+
+.bg-xproc {
+  background-color: black;
+  color: white; }
+
+.font-xquery {
+  color: #5232e7; }
+
+.bg-xquery {
+  background-color: #5232e7;
+  color: white; }
+
+.font-xs {
+  color: black; }
+
+.bg-xs {
+  background-color: black;
+  color: white; }
+
+.font-xslt {
+  color: #EB8CEB; }
+
+.bg-xslt {
+  background-color: #EB8CEB;
+  color: white; }
+
+.font-xtend {
+  color: black; }
+
+.bg-xtend {
+  background-color: black;
+  color: white; }
+
+.font-yacc {
+  color: #4B6C4B; }
+
+.bg-yacc {
+  background-color: #4B6C4B;
+  color: white; }
+
+.font-zephir {
+  color: #118f9e; }
+
+.bg-zephir {
+  background-color: #118f9e;
+  color: white; }
+
+.font-zimpl {
+  color: black; }
+
+.bg-zimpl {
+  background-color: black;
+  color: white; }
+
+/*# sourceMappingURL=github-lang-colors.css.map */

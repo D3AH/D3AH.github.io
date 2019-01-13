@@ -1,0 +1,53 @@
+body {
+    background-color: #33333d;
+}
+
+.ht-tm-header {
+    /* Layout */
+    margin-bottom: 100px;;
+}
+
+.card {
+    /* Layout */
+    margin-bottom: 20px;
+    /* Text */
+    text-align: center;
+    /* Background */
+    background-color: hsl(240, 8%, 23%);
+    /* Border */
+    border: 0;
+    border-radius: 0;
+    /* Box shadow */
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card .card-title {
+    /* Layout */
+    margin-bottom: 40px;
+    /* Text */
+    font-weight: bold;
+}
+
+.card .card-text {
+    /* Text */
+    text-align: justify;
+    /* Layout */
+    margin-bottom: 35px;
+}
+
+.card .card-language {
+    font-weight: 600;
+}
+
+.text-mono {
+    color: #1eb980;
+}
+
+footer {
+    /* Text */
+    text-align: center;
+    /* Layout */
+    margin-top: 50px;
+}
