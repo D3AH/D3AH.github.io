@@ -1,0 +1,62 @@
+/**
+Author:
+    Diego Auyón
+    diegoeauyonh@gmail.com
+    github.com/D3AH
+**/
+
+$bg        : #212733;
+$bg2       : #383e49;
+
+$comment   : #5C6773;
+$markup    : #F07178;
+$constant  : #D4BFFF;
+$operator  : #80D4FF;
+$tag       : #5CCFE6;
+$regexp    : #95E6CB;
+$string    : #BBE67E;
+$function  : #FFD57F;
+$special   : #FFC44C;
+$keyword   : #FFAE57;
+
+$error     : #FF3333;
+$accent    : #FFCC66;
+$panel     : #272D38;
+$guide     : #3D4751;
+$line      : #242B38;
+$selection : #343F4C;
+$fg        : #D9D7CE;
+$fg_idle   : #607080;
+
+$cursor-grey: #2C323C;
+
+$primary: $bg;
+$info: $string;
+$danger: $function;
+$warning: $comment;
+$white: $bg;
+$link: $function;
+$link-focus-border: $function;
+$grey-darker: $fg-idle;
+$grey-dark: $fg;
+
+.has-text-keyword {
+    color: $keyword !important;
+    font-weight: bold;
+}
+
+.output-box {
+    background-color: $bg2;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.navbar {
+    .navbar-menu {
+        a {
+            color: hsl(0, 0%, 96%);
+        }
+    }
+}
+
+@import '../node_modules/bulma/bulma.sass';
